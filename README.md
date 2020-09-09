@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head> 
-  <h1>Lab 2</h1>
+  <p>Lab 2</p>
   <p>361 Internet Technologies and Web Design</p>
   <p>Course Catalog & Objectives</p>
+  </head>
