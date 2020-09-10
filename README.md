@@ -2,7 +2,6 @@
 <html lang="en">
 <head> 
   <meta charset="UTF-8">
-  <title>ITMD-361 Internet Technologies and Web Design</title>
 </head>ITMD361Lab1 My First Website
 <body>
 	<h1>ITMD-361 Internet Technologies and Web Design</h1>
