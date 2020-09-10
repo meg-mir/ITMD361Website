@@ -1,5 +1,4 @@
 # ITMD361-Website-Lab2
-<!DOCTYPE html>
 <html lang="en">
 <head> 
   <p>Lab 2</p>
